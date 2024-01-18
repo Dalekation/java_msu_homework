@@ -1,0 +1,25 @@
+TOP BY FALL
+SECBOARD  SECCODE  TOTAL_TRADES_AMOUNT  TOTAL_TRADES_VOLUME  DIFF_IN_PERC
+FQBR      INTC-RM  18592.00             66039609.00          -4.45         
+TQBR      IGSTP    588.00               518642.00            -4.44         
+TQBR      IGST     750.00               771434.00            -3.69         
+FQBR      AMZN-RM  106.00               25100497.00          -3.21         
+FQBR      GM-RM    1005.00              3058498.00           -3.18         
+TQBR      MSTT     32100.00             3354642.50           -3.14         
+TQBR      SELG     329100.00            15568668.00          -2.93         
+TQBR      DSKY     10335670.00          1414174705.80        -2.85         
+TQBR      NNSB     62.00                153665.00            -2.80         
+TQBR      VSMO     622.00               12839880.00          -2.75         
+
+TOP BY GROWTH
+SECBOARD  SECCODE  TOTAL_TRADES_AMOUNT  TOTAL_TRADES_VOLUME  DIFF_IN_PERC
+TQBR      AMEZ     10585400.00          92160393.00          14.34         
+FQBR      BIDU-RM  5148.00              73657397.00          11.48         
+TQBR      AVAN     9240.00              10947240.00          6.76          
+TQBR      GTRK     125090.00            5058051.00           5.56          
+TQBR      MAGE     233000.00            2020110.00           5.44          
+TQBR      MRKS     6450000.00           2358715.00           3.95          
+TQBR      VJGZP    1060.00              415420.00            3.92          
+TQBR      NVTK     3161079.00           3857268405.20        3.72          
+TQBR      KLSB     982100.00            10803991.00          3.47          
+FQBR      TWTR-RM  1475.00              5950667.00           3.32          
